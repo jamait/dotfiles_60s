@@ -1,0 +1,10 @@
+
+
+
+
+#
+URxvt.transparent: true
+URxvt.scrollBar: false
+URxvt*background: #000000
+URxvt.foreground: green
+URxvt.tintColor: #443344
